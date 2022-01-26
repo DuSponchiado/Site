@@ -68,7 +68,8 @@ color:black;}
    font-weight:bold;
    padding:6px 24px;
    text-decoration:none;
-   text-shadow:0px 1px 0px #FFF896;}        
+   text-shadow:0px 1px 0px #FFF896;
+   margin-bottom: 20px;}        
  .buttonwork {bbox-shadow:inset 0px 1px 0px 0px #ffffff;
     background-color:#FFF896;
     border-radius:6px;
@@ -81,7 +82,8 @@ color:black;}
     font-weight:bold;
     padding:6px 24px;
     text-decoration:none;
-    text-shadow:0px 1px 0px #FFF896;}   
+    text-shadow:0px 1px 0px #FFF896;
+    margin-bottom: 20px;}   
  .buttonfotos {box-shadow:inset 0px 1px 0px 0px #ffffff;
     background-color:#FFF896;
     border-radius:6px;
@@ -94,7 +96,8 @@ color:black;}
     font-weight:bold;
     padding:6px 24px;
     text-decoration:none;
-    text-shadow:0px 1px 0px #FFF896;}   
+    text-shadow:0px 1px 0px #FFF896;
+    margin-bottom: 20px;}   
  .Textos{box-shadow:inset 0px 1px 0px 0px #ffffff;
     background-color:#FFF896;
     border-radius:6px;
@@ -107,10 +110,10 @@ color:black;}
     font-weight:bold;
     padding:6px 24px;
     text-decoration:none;
-    text-shadow:0px 1px 0px #FFF896;}   
+    text-shadow:0px 1px 0px #FFF896;
+    margin-bottom: 20px;}   
       
-/*Configuração da página aleatoriedades*/    
-h2 {color:yellow;}
+
       
      
 
