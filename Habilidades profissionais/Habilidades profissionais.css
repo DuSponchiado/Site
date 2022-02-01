@@ -1,0 +1,5 @@
+/*Configurações gerais*/
+@charset "UFT-8";
+*{font-family: consolas; margin:20px 30px; padding: 0;}
+body {font-size: 15px; background-color: #f7f4ca; color:#474747;}   
+h1 {text-align: center;}
